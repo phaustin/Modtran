@@ -1,0 +1,27 @@
+#
+# 
+#
+version: '3.8'
+
+services:
+
+#
+# copy notebooks and html files in ./notebooks on host
+# to /srv/problem_solving_content and create
+# a named volume holding that target
+#
+  modtran:
+    container_name: modtran
+    build:
+      context: cmake_image
+      dockerfile: Dockerfile
+    image: phaustin/modtran:sep26
+    volumes:
+      - type: bind
+        source: .
+        target: /home/jovyan/work/modtran_files
+
+volumes:
+  modtran_files:
+    name: modtran_files
+
