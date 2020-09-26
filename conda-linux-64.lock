@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 89e893ad75b00290941dbc49c6362d4c9dbd09f2eb1323b9e7c1f777abea6fc9
+# env_hash: d62e7dd4207f8260cfe936b275de568890cd31b37631dc252c942522af1217b1
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/libgcc-devel_linux-64-9.3.0-hfd08b2a_16.tar.bz2#e7732e8cb78dc02e7819b1eb4a4883d6
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
@@ -21,7 +21,6 @@ https://conda.anaconda.org/conda-forge/linux-64/expat-2.2.9-he1b5a44_2.tar.bz2#2
 https://conda.anaconda.org/conda-forge/linux-64/gcc_impl_linux-64-7.5.0-hda68d29_13.tar.bz2#fe83fa08b9fe7ceccfd0068571b92827
 https://conda.anaconda.org/conda-forge/linux-64/libev-4.33-h516909a_1.tar.bz2#6f8720dff19e17ce5d48cfe7f3d2f0a3
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-he1b5a44_1007.tar.bz2#11389072d7d6036fd811c3d9460475cd
-https://conda.anaconda.org/conda-forge/linux-64/libgcc-7.2.0-h69d50b8_2.tar.bz2#9962126180acc1a4fec0c6aabe7c2459
 https://conda.anaconda.org/conda-forge/linux-64/libuv-1.40.0-h516909a_0.tar.bz2#80af691b50aa44c0490aaf9a19f64cb0
 https://conda.anaconda.org/conda-forge/linux-64/make-4.3-h516909a_0.tar.bz2#bbafaf90013905517818c3486f17d710
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-he1b5a44_1.tar.bz2#d3da4932f3d8e6b3c81fcf177d1e6eab
