@@ -1,27 +1,18 @@
 # platform: linux-64
-# env_hash: 89e893ad75b00290941dbc49c6362d4c9dbd09f2eb1323b9e7c1f777abea6fc9
+# env_hash: c94d47070e59e932fe4cbfc08fb718fdd4265eeb52915476df0e1e0b371c4971
 @EXPLICIT
-https://conda.anaconda.org/conda-forge/linux-64/libgcc-devel_linux-64-9.3.0-hfd08b2a_16.tar.bz2#e7732e8cb78dc02e7819b1eb4a4883d6
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.6.20-hecda079_0.tar.bz2#1b1cca86e95c416a8e7eb6062af6d503
-https://conda.anaconda.org/conda-forge/noarch/kernel-headers_linux-64-2.6.32-h77966d4_13.tar.bz2#182b3bbe97ca334be3ccb50b80810bb1
 https://conda.anaconda.org/conda-forge/linux-64/ld_impl_linux-64-2.35-h769bd43_9.tar.bz2#e91fb361f3d158f06546dc87cbe55739
-https://conda.anaconda.org/conda-forge/linux-64/libgfortran-ng-7.5.0-hdf63c60_16.tar.bz2#d403b27c431064370f9d1b1962f8a86b
 https://conda.anaconda.org/conda-forge/linux-64/libstdcxx-ng-9.3.0-hdf63c60_16.tar.bz2#2c7c23cdad4f42f924d19029ef97475c
 https://conda.anaconda.org/conda-forge/linux-64/libgomp-9.3.0-h24d8f2e_16.tar.bz2#48f89ebfddb4ac93e74b0f4ab14c4a13
-https://conda.anaconda.org/conda-forge/noarch/sysroot_linux-64-2.12-h77966d4_13.tar.bz2#e411486a18c4f61c59083c5792c1ce3b
 https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-1_gnu.tar.bz2#561e277319a41d4f24f5c05a9ef63c04
-https://conda.anaconda.org/conda-forge/linux-64/binutils_impl_linux-64-2.35-h18a2f87_9.tar.bz2#f0f95ebd15e1eca2d43d5ab2167045e4
-https://conda.anaconda.org/conda-forge/linux-64/binutils-2.35-h2122c62_9.tar.bz2#2beb63925cdbf7f24da6a0d5764f057a
-https://conda.anaconda.org/conda-forge/linux-64/binutils_linux-64-2.35-heab0d09_28.tar.bz2#80fb2ea7e0e3e254281ef91f500b5c95
 https://conda.anaconda.org/conda-forge/linux-64/libgcc-ng-9.3.0-h24d8f2e_16.tar.bz2#846daf5c2a4dd387047cc5ccc6b9c613
 https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.8-h516909a_3.tar.bz2#a05ea3fc1a51cf629bd49b481f729ebd
 https://conda.anaconda.org/conda-forge/linux-64/c-ares-1.16.1-h516909a_3.tar.bz2#8d0f54b0a09bb496dea3f8dae0c551e4
 https://conda.anaconda.org/conda-forge/linux-64/expat-2.2.9-he1b5a44_2.tar.bz2#285f5b5ca3209d492224935affd00aab
-https://conda.anaconda.org/conda-forge/linux-64/gcc_impl_linux-64-7.5.0-hda68d29_13.tar.bz2#fe83fa08b9fe7ceccfd0068571b92827
 https://conda.anaconda.org/conda-forge/linux-64/libev-4.33-h516909a_1.tar.bz2#6f8720dff19e17ce5d48cfe7f3d2f0a3
 https://conda.anaconda.org/conda-forge/linux-64/libffi-3.2.1-he1b5a44_1007.tar.bz2#11389072d7d6036fd811c3d9460475cd
-https://conda.anaconda.org/conda-forge/linux-64/libgcc-7.2.0-h69d50b8_2.tar.bz2#9962126180acc1a4fec0c6aabe7c2459
 https://conda.anaconda.org/conda-forge/linux-64/libuv-1.40.0-h516909a_0.tar.bz2#80af691b50aa44c0490aaf9a19f64cb0
 https://conda.anaconda.org/conda-forge/linux-64/make-4.3-h516909a_0.tar.bz2#bbafaf90013905517818c3486f17d710
 https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.2-he1b5a44_1.tar.bz2#d3da4932f3d8e6b3c81fcf177d1e6eab
@@ -29,17 +20,13 @@ https://conda.anaconda.org/conda-forge/linux-64/openssl-1.1.1h-h516909a_0.tar.bz
 https://conda.anaconda.org/conda-forge/linux-64/rhash-1.3.6-h14c3975_1001.tar.bz2#0d0919ca14ecd0e834907402d5223221
 https://conda.anaconda.org/conda-forge/linux-64/xz-5.2.5-h516909a_1.tar.bz2#33f601066901f3e1a85af3522a8113f9
 https://conda.anaconda.org/conda-forge/linux-64/zlib-1.2.11-h516909a_1009.tar.bz2#93486907c6757170a5125198506d9cf8
-https://conda.anaconda.org/conda-forge/linux-64/gcc_linux-64-7.5.0-hf34d7eb_28.tar.bz2#056bfe64d224c7976d805ef1c5b048ec
-https://conda.anaconda.org/conda-forge/linux-64/gfortran_impl_linux-64-7.5.0-h1104b78_16.tar.bz2#486ddb27cdcd893b6786813a086b0f85
 https://conda.anaconda.org/conda-forge/linux-64/libedit-3.1.20191231-he28a2e2_2.tar.bz2#4d331e44109e3f0e19b4cb8f9b82f3e1
 https://conda.anaconda.org/conda-forge/linux-64/libnghttp2-1.41.0-h8cfc5f6_2.tar.bz2#726ca0fed4bde95b056ef26df1efaf60
 https://conda.anaconda.org/conda-forge/linux-64/libssh2-1.9.0-hab1572f_5.tar.bz2#18aaa1bd2238ae2b5e89591046973123
 https://conda.anaconda.org/conda-forge/linux-64/readline-8.0-he28a2e2_2.tar.bz2#4d0ae8d473f863696088f76800ef9d38
 https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.10-hed695b0_0.tar.bz2#9a3e126468fa7fb6a54caad41b5a2d45
-https://conda.anaconda.org/conda-forge/linux-64/gfortran_linux-64-7.5.0-ha781d05_28.tar.bz2#7acc96573f9cc673e8795e23f7b80581
 https://conda.anaconda.org/conda-forge/linux-64/krb5-1.17.1-hfafb76e_3.tar.bz2#b9c0993124fbf5f4ccf37fd00d6a3705
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.33.0-h4cf870e_0.tar.bz2#b22603a9c94d2cda5911f7a2cd55aa95
-https://conda.anaconda.org/conda-forge/linux-64/fortran-compiler-1.1.1-he991be0_0.tar.bz2#e38ac82cc517b9e245c1ae99f9f140da
 https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.71.1-hcdd3856_6.tar.bz2#ca3ed6299c27fa27c53e1b3ad51c5328
 https://conda.anaconda.org/conda-forge/linux-64/python-3.8.5-h1103e12_9_cpython.tar.bz2#8f5c04921bbbeacce8a8a3b6f6737ccb
 https://conda.anaconda.org/conda-forge/linux-64/cmake-3.18.2-h5c55442_0.tar.bz2#7ebab84c4c237bdc11c41be13ea6e878
