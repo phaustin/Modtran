@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.7)
 project(modtran Fortran)
-set(CMAKE_FC_COMPILER gfortran)
+set(CMAKE_FC_COMPILER gfortran-7)
 set(CMAKE_INSTALL_PREFIX ${CMAKE_SOURCE_DIR})
 add_compile_options(-ffpe-trap=invalid,zero,overflow -g -fbacktrace)# -fmax-errors=5)
 

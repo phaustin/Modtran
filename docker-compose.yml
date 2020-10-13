@@ -15,7 +15,7 @@ services:
     build:
       context: cmake_image
       dockerfile: Dockerfile
-    image: phaustin/modtran:sep26
+    image: phaustin/modtran:oct13
     volumes:
       - type: bind
         source: .
